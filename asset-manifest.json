@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/masd1234/tmcreact/static/css/main.7f99b29a.chunk.css",
+    "main.js": "/masd1234/tmcreact/static/js/main.be3eb515.chunk.js",
+    "main.js.map": "/masd1234/tmcreact/static/js/main.be3eb515.chunk.js.map",
+    "runtime-main.js": "/masd1234/tmcreact/static/js/runtime-main.cd82acce.js",
+    "runtime-main.js.map": "/masd1234/tmcreact/static/js/runtime-main.cd82acce.js.map",
+    "static/js/2.8e328965.chunk.js": "/masd1234/tmcreact/static/js/2.8e328965.chunk.js",
+    "static/js/2.8e328965.chunk.js.map": "/masd1234/tmcreact/static/js/2.8e328965.chunk.js.map",
+    "static/js/3.56a0e2a8.chunk.js": "/masd1234/tmcreact/static/js/3.56a0e2a8.chunk.js",
+    "static/js/3.56a0e2a8.chunk.js.map": "/masd1234/tmcreact/static/js/3.56a0e2a8.chunk.js.map",
+    "index.html": "/masd1234/tmcreact/index.html",
+    "static/css/main.7f99b29a.chunk.css.map": "/masd1234/tmcreact/static/css/main.7f99b29a.chunk.css.map",
+    "static/js/2.8e328965.chunk.js.LICENSE.txt": "/masd1234/tmcreact/static/js/2.8e328965.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/masd1234/tmcreact/static/media/healthy1.25c67e3b.jpg",
+    "static/media/About.css": "/masd1234/tmcreact/static/media/healthy2.1aeaa110.jpg",
+    "static/media/Contact.css": "/masd1234/tmcreact/static/media/healthy3.8fc0b790.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd82acce.js",
+    "static/js/2.8e328965.chunk.js",
+    "static/css/main.7f99b29a.chunk.css",
+    "static/js/main.be3eb515.chunk.js"
+  ]
+}
